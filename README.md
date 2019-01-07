@@ -1,4 +1,4 @@
-# mathx [![GoDoc](https://godoc.org/github.com/wilhelmstoll/mathx?status.svg)](https://godoc.org/github.com/wilhelmstoll/mathx)
+# mathx [![GoDoc](https://godoc.org/github.com/wilhelmstoll/mathx?status.svg)](https://godoc.org/github.com/wilhelmstoll/mathx) [![Build Status](https://travis-ci.org/wilhelmstoll/mathx.svg?branch=master)](https://travis-ci.org/wilhelmstoll/mathx)
 
 Pure go implementation of additional math functions.
 
